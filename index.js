@@ -8,7 +8,7 @@ const multer = require("multer");
 const path = require("path");
 const cors = require("cors");
 
-// Dylan
+
 
 app.use(express.json());
 app.use(cors());
